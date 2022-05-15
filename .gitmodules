@@ -1,4 +1,8 @@
-[submodule "public"]
-	path = public
+[submodule "public2"]
+	path = public2
+	url = https://github.com/ekgoode/ekgoode.github.io.git
+	branch = main
+[submodule "publicCopycat"]
+	path = publicCopycat
 	url = https://github.com/ekgoode/ekgoode.github.io.git
 	branch = main
